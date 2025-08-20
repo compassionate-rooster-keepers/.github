@@ -13,11 +13,11 @@ Roosters face unique challenges in backyard flocks and breeding operations at ev
 We offer two complementary pledges for different roles in rooster care. These voluntary pledges serve as a public symbol of someone's commitment to the ethical standards outlined within them.
 
 
-## 🏠 [Compassionate Rooster Keeper Pledge](./pledges/keeper-pledge.md)
+## 🏠 [Compassionate Rooster Keeper Pledge](https://github.com/compassionate-rooster-keepers/pledges/blob/main/keeper-pledge.md)
  - For backyard flock owners, small-scale farmers, and anyone caring for roosters.
  - This pledge covers standards for housing, handling, health care, and ethical decision-making about surplus roosters
 
-## 🥚 [Compassionate Rooster Breeder Pledge](./pledges/breeder-pledge.md)
+## 🥚 [Compassionate Rooster Breeder Pledge](.https://github.com/compassionate-rooster-keepers/pledges/blob/main/breeder-pledge.md)
 - For those actively breeding chickens. 
 - Includes additional standards around responsible breeding practices
 - Also covers genetic health, planning to minimize surplus roosters, and ensuring proper care or food use for males that can't be kept
