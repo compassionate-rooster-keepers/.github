@@ -5,7 +5,7 @@ CRK is dedicated to promoting ethical, humane treatment of roosters through volu
 
 Roosters face unique challenges in backyard flocks and breeding operations at every scale. Unlike hens, multiple roosters often can't be kept together, leading to difficult decisions about "surplus" males. We believe roosters deserve compassionate care throughout their lives and being humanely dispatched if medically necessary or they're meant to feed/sustain families, rather than placed in a potentially harmful environment to avoid dispatching all-together.
 
-# 🌱 Why Roosters Deserve It
+# 🌱 Why They Deserve Your Pledge
 
 **Every** rooster deserves a good life, whether they live as flock protectors or provide nourishment for families. By choosing compassionate care over convenience, we can create a better alternative to factory farming and show that ethical animal husbandry is possible at any scale.
 
