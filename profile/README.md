@@ -1,4 +1,5 @@
-Welcome! CRK is dedicated to promoting ethical, humane treatment of roosters through voluntary pledges and shared standards.
+# 👋 Welcome!
+CRK is dedicated to promoting ethical, humane treatment of roosters through voluntary pledges and shared standards.
 
 # 🐓 The CRK Mission
 
